@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "{{ replace .Name "-" " " | title }}"
-weight = X
+weight = 10
 +++
 
 Lorem Ipsum.
